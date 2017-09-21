@@ -1,6 +1,6 @@
 #include<iostream>
-using names stD;
+using names std;
 int main(){
-cout<<"Ho"la mundo"
+cout<<"Hola mundo";
 return 0;
 }
