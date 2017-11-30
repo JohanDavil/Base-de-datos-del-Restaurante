@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+			<html lang="es-ES">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Disponibilidad de Mesa &#8211; Restaurant</title>
+</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<link rel="icon" href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-270x270.png" />
+</head>
+
+<body class="page-template-default page page-id-252 logged-in admin-bar no-customize-support wp-custom-logo client-testimonial-disabled wide right-sidebar">
+		<div id="page" class="site">
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+					<div id="loader">
+	         <div class="loader-container">
+         		<i class="fa fa-spinner fa-spin"></i>
+	         </div>
+	     	</div><!-- end loader -->
+				<header id="masthead" class="site-header sticky" role="banner">
+			<div class="wrapper">
+					<div class="site-branding">
+	            					<div class="site-logo">
+			        	<a href="http://restaurant.hostlibre.ml/" class="custom-logo-link" rel="home" itemprop="url"><img width="50" height="50" src="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-1-e1508987249472.png" class="custom-logo" alt="Restaurant" itemprop="logo" /></a>	          		</div><!-- end .site-logo -->
+			    		          	<div class="site-branding-text">
+														<p class="site-title"><a href="http://restaurant.hostlibre.ml/" rel="home">Restaurant</a></p>
+												</div>
+							</div><!-- .site-branding -->
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">
+				<span class="icon-bar"></span>
+            	<span class="icon-bar"></span>
+            	<span class="icon-bar"></span>
+            </button>
+			<ul id="primary-menu" class="menu"><li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-225"><a href="http://restaurant.hostlibre.ml/">Inicio</a></li>
+<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-252 current_page_item menu-item-257"><a href="http://restaurant.hostlibre.ml/disponibilidad-de-mesa/">Disponibilidad de Mesa</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-148"><a href="http://restaurant.hostlibre.ml/carrito/">Carrito</a>
+<ul  class="sub-menu">
+	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://restaurant.hostlibre.ml/finalizar-compra/">Finalizar compra</a></li>
+</ul>
+</li>
+<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://restaurant.hostlibre.ml/tienda/">Menú</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://restaurant.hostlibre.ml/mi-cuenta/">Mi cuenta</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://restaurant.hostlibre.ml/contacto/">Contacto</a></li>
+<li><a id="search-btn" href="#"><i class="fa fa-search"></i></a></li></ul><div class="search" id="search"><form role="search" method="get" class="search-form" action="http://restaurant.hostlibre.ml/">
+
+<p><label> Nombre<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Tu correo electrónico<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Asunto<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> </label></p>
+<p><label> Mensaje<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+<p><input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+	</div><!-- .entry-content -->
+
+			<footer class="entry-footer">
+			<span class="edit-link"><a class="post-edit-link" href="http://restaurant.hostlibre.ml/wp-admin/post.php?post=18&#038;action=edit">Edit <span class="screen-reader-text">"Contacto"</span></a></span>		</footer><!-- .entry-footer -->
+	</article><!-- #post-## -->
+
+			</main><!-- #main -->
+		</div><!-- #primary -->
+		
+<aside id="secondary" class="widget-area" role="complementary">
+	<section id="text-8" class="widget widget_text"><h2 class="widget-title">Encuéntranos</h2>			<div class="textwidget"><p><strong>Dirección</strong><br />
+Av. Carlos Izaguirre<br />
+Los Olivos</p>
+<p><strong>Horas</strong><br />
+Lunes a viernes: 11:00AM a 4:00PM<br />
+Sábado y domingo: 11:00AM a 5:00PM</p>
+</div>
+		</section><section id="calendar-2" class="widget widget_calendar"><h2 class="widget-title">Calendario</h2><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>noviembre 2017</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="lunes">L</th>
+		<th scope="col" title="martes">M</th>
+		<th scope="col" title="miércoles">X</th>
+		<th scope="col" title="jueves">J</th>
+		<th scope="col" title="viernes">V</th>
+		<th scope="col" title="sábado">S</th>
+		<th scope="col" title="domingo">D</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://restaurant.hostlibre.ml/2017/10/">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td>
+	</tr>
+	<tr>
+		<td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
+	</tr>
+	<tr>
+		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+	</tr>
+	<tr>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
+	</tr>
+	<tr>
+		<td>27</td><td>28</td><td>29</td><td id="today">30</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></section></aside><!-- #secondary -->
+	</div><!-- .wrapper/.page-section-->
+		</div>
+<div class="social-link">
+	            <ul id="menu-menu-de-enlaces-sociales" class="social-icons"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://www.facebook.com">Facebook</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="https://twitter.com">Twitter</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a href="https://www.instagram.com">Instagram</a></li>
+</ul>	        </div><!--.social-link-->
+	<span class="copyright">Copyright &copy; 2017 <a href="http://restaurant.hostlibre.ml/">Restaurant</a>. All Rights Reserved</span>
+</body>
+</html>
