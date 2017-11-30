@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+			<html lang="es-ES">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Disponibilidad de Mesa &#8211; Restaurant</title>
+</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<link rel="icon" href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-270x270.png" />
+</head>
+
+<body class="page-template-default page page-id-252 logged-in admin-bar no-customize-support wp-custom-logo client-testimonial-disabled wide right-sidebar">
+		<div id="page" class="site">
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+					<div id="loader">
+	         <div class="loader-container">
+         		<i class="fa fa-spinner fa-spin"></i>
+	         </div>
+	     	</div><!-- end loader -->
+				<header id="masthead" class="site-header sticky" role="banner">
+			<div class="wrapper">
+					<div class="site-branding">
+	            					<div class="site-logo">
+			        	<a href="http://restaurant.hostlibre.ml/" class="custom-logo-link" rel="home" itemprop="url"><img width="50" height="50" src="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-1-e1508987249472.png" class="custom-logo" alt="Restaurant" itemprop="logo" /></a>	          		</div><!-- end .site-logo -->
+			    		          	<div class="site-branding-text">
+														<p class="site-title"><a href="http://restaurant.hostlibre.ml/" rel="home">Restaurant</a></p>
+												</div>
+							</div><!-- .site-branding -->
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">
+				<span class="icon-bar"></span>
+            	<span class="icon-bar"></span>
+            	<span class="icon-bar"></span>
+            </button>
+			<ul id="primary-menu" class="menu"><li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-225"><a href="http://restaurant.hostlibre.ml/">Inicio</a></li>
+<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-252 current_page_item menu-item-257"><a href="http://restaurant.hostlibre.ml/disponibilidad-de-mesa/">Disponibilidad de Mesa</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-148"><a href="http://restaurant.hostlibre.ml/carrito/">Carrito</a>
+<ul  class="sub-menu">
+	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://restaurant.hostlibre.ml/finalizar-compra/">Finalizar compra</a></li>
+</ul>
+</li>
+<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://restaurant.hostlibre.ml/tienda/">Menú</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://restaurant.hostlibre.ml/mi-cuenta/">Mi cuenta</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://restaurant.hostlibre.ml/contacto/">Contacto</a></li>
+<li><a id="search-btn" href="#"><i class="fa fa-search"></i></a></li></ul><div class="search" id="search"><form role="search" method="get" class="search-form" action="http://restaurant.hostlibre.ml/">
+
+ <h2 class="entry-title">Bienvenido al Restaurant.</h2>
+                        </header><!--.entry-header-->
+                                                    <div class="entry-content">
+                                <p>Te invitamos cordialmente a nuestro restaurante Yummy. Combina la tradición con la modernidad de una manera excepcional. Su interior es único porque se han conservado fragmentos de antiguas murallas y se han mezclado ingeniosamente con la decoración moderna. Principalmente servimos toda la cocina tradicional y moderna y agregamos variedad a nuestro menú según la temporada.</p>
+                            </div><!--.entry-content-->
+                                            </div><!-- .page-section -->
+                </div><!--.column-wrapper-->
+            </div><!--.wrapper-->
+        </section><!--#reservation-form--> 
+                <section id="parallax-2" class="parallax delicious-memory" style="background-image:url('http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/sandwich-1.jpg');" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="0">
+                <div class="black-overlay"></div>
+                <div class="wrapper">
+                    <header class="entry-header">
+                        <h2 class="entry-title color-white"><a href="http://restaurant.hostlibre.ml/acerca-de/">Quienes Somos</a></h2>
+                        <a href="http://restaurant.hostlibre.ml/acerca-de/" class="btn btn-transparent">View</a>
+                    </header>
+                </div><!--.wrapper-->
+            </section><!-- #parallax-2 -->
+            <section id="food-menu" class="page-section bg-white">
+            <div class="wrapper">
+                                    <header class="entry-header">
+                        <h2 class="entry-title">Menu</h2>
+                        <div class="separator"></div>
+                    </header><!-- .entry-header -->
+                                <div class="entry-content">
+                                            <div class="food-item-list clear">
+                            <div class="item-title">
+                                <h4>Postres</h4>
+                            </div><!-- .item-title -->
+                            <div class="list-items">
+                                <div class="food-item-list-wrapper">
+                                                                            <div class="menu-list">
+                                            <h5><a href="http://restaurant.hostlibre.ml/producto/pastel-de-tres-leches/">Pastel de Tres Leches</a></h5>
+                                            <p></p>
+                                                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>4.50</span>                                                                                    </div><!--.menu-list-->
+                                                                            <div class="menu-list">
+                                            <h5><a href="http://restaurant.hostlibre.ml/producto/gelatina/">Gelatina</a></h5>
+                                            <p></p>
+                                                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>3.50</span>                                                                                    </div><!--.menu-list-->
+                                                                            <div class="menu-list">
+                                            <h5><a href="http://restaurant.hostlibre.ml/producto/pay-de-limon/">Pay de Limón</a></h5>
+                                            <p></p>
+                                                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>4.50</span>                                                                                    </div><!--.menu-list-->
+                                                                            <div class="menu-list">
+                                            <h5><a href="http://restaurant.hostlibre.ml/producto/pastel-de-chocolate/">Pastel de Chocolate</a></h5>
+                                            <p></p>
+                                                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>4.50</span>                                                                                    </div><!--.menu-list-->
+                                                                    </div><!-- .food-item-list-wrapper -->
+                            </div><!-- .list-items -->
+                        </div><!-- .food-item-list -->
+                                            <div class="food-item-list clear">
+                            <div class="item-title">
+                                <h4>Platos</h4>
+                            </div><!-- .item-title -->
+                            <div class="list-items">
+                                <div class="food-item-list-wrapper">
+                                                                            <div class="menu-list">
+                                            <h5><a href="http://restaurant.hostlibre.ml/producto/costillas-de-cerdo-con-papas-fritas/">Costillas de Cerdo con Papas Fritas</a></h5>
+                                            <p>A diferencia de los filetes de carne o las hamburguesas esta...</p>
+                                                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>15.00</span>                                                                                    </div><!--.menu-list-->
+                                                                            <div class="menu-list">
+                                            <h5><a href="http://restaurant.hostlibre.ml/producto/bife-angosto-con-papas-fritas/">Bife Angosto</a></h5>
+                                            <p>La carne salpica con mucho fervor en la parrilla y para...</p>
+                                                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>15.00</span>                                                                                    </div><!--.menu-list-->
+                                                                            <div class="menu-list">
+                                            <h5><a href="http://restaurant.hostlibre.ml/producto/picana-con-papas-fritas/">Picaña con Papas Fritas</a></h5>
+                                            <p>La picaña es muy conocida en Brasil, es más, allí a...</p>
+                                                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>15.00</span>                                                                                    </div><!--.menu-list-->
+                                                                            <div class="menu-list">
+                                            <h5><a href="http://restaurant.hostlibre.ml/producto/lomo-fino-con-papas-fritas/">Lomo Fino con Papas Fritas</a></h5>
+                                            <p>Un lomo fino a la parrilla bañado en una salsa de...</p>
+                                                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>15.00</span>                                                                                    </div><!--.menu-list-->
+                                                                    </div><!-- .food-item-list-wrapper -->
+                            </div><!-- .list-items -->
+                        </div><!-- .food-item-list -->
+                                    </div><!-- .entry-content -->
+            </div><!-- .wrapper -->
+
+            <div class="page-decoration">
+                <img src="http://restaurant.hostlibre.ml/wp-content/themes/yummy/assets/uploads/dish-01.png" alt="decoration">
+                <img src="http://restaurant.hostlibre.ml/wp-content/themes/yummy/assets/uploads/dish-02.png" alt="decoration">
+            </div><!-- .page-decoration -->
+        </section><!-- #food-menu -->
+    	<div class="wrapper page-section">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main front-page-posts" role="main">
+
+				
+<article id="post-16" class="post-16 page type-page status-publish hentry">
+	<h2 class="entry-title">Inicio</h2>	
+	<div class="entry-content clear">
+		<p style="text-align: center;"><img class="alignnone size-full wp-image-280" src="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/fondo-res-2-e1510201367916.png" alt="" width="840" height="473" /></p>
+	</div>
+<div class="social-link">
+	            <ul id="menu-menu-de-enlaces-sociales" class="social-icons"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://www.facebook.com">Facebook</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="https://twitter.com">Twitter</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a href="https://www.instagram.com">Instagram</a></li>
+</ul>	        </div><!--.social-link-->
+	<span class="copyright">Copyright &copy; 2017 <a href="http://restaurant.hostlibre.ml/">Restaurant</a>. All Rights Reserved</span>
+</body>
+</html>
