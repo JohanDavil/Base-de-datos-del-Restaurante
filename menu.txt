@@ -1,0 +1,287 @@
+		<!DOCTYPE html>
+			<html lang="es-ES">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Productos &#8211; Restaurant</title>
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<link rel="icon" href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-270x270.png" />
+</head>
+
+<body class="archive post-type-archive post-type-archive-product logged-in admin-bar no-customize-support wp-custom-logo woocommerce woocommerce-page hfeed client-testimonial-disabled wide no-sidebar">
+		<div id="page" class="site">
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+					<div id="loader">
+	         <div class="loader-container">
+         		<i class="fa fa-spinner fa-spin"></i>
+	         </div>
+	     	</div><!-- end loader -->
+				<header id="masthead" class="site-header sticky" role="banner">
+			<div class="wrapper">
+					<div class="site-branding">
+	            					<div class="site-logo">
+			        	<a href="http://restaurant.hostlibre.ml/" class="custom-logo-link" rel="home" itemprop="url"><img width="50" height="50" src="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/cropped-Logo-1-e1508987249472.png" class="custom-logo" alt="Restaurant" itemprop="logo" /></a>	          		</div><!-- end .site-logo -->
+			    		          	<div class="site-branding-text">
+														<p class="site-title"><a href="http://restaurant.hostlibre.ml/" rel="home">Restaurant</a></p>
+												</div>
+							</div><!-- .site-branding -->
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">
+				<span class="icon-bar"></span>
+            	<span class="icon-bar"></span>
+            	<span class="icon-bar"></span>
+            </button>
+			<ul id="primary-menu" class="menu"><li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-225"><a href="http://restaurant.hostlibre.ml/">Inicio</a></li>
+<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-257"><a href="http://restaurant.hostlibre.ml/disponibilidad-de-mesa/">Disponibilidad de Mesa</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-148"><a href="http://restaurant.hostlibre.ml/carrito/">Carrito</a>
+<ul  class="sub-menu">
+	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://restaurant.hostlibre.ml/finalizar-compra/">Finalizar compra</a></li>
+</ul>
+</li>
+<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item menu-item-150"><a href="http://restaurant.hostlibre.ml/tienda/">Menú</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://restaurant.hostlibre.ml/mi-cuenta/">Mi cuenta</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://restaurant.hostlibre.ml/contacto/">Contacto</a></li>
+<li><a id="search-btn" href="#"><i class="fa fa-search"></i></a></li></ul><div class="search" id="search"><form role="search" method="get" class="search-form" action="http://restaurant.hostlibre.ml/">
+    <label>
+        <span class="screen-reader-text"></span>
+        <input type="search" name="s" class="search-field" placeholder="Search.." value="" />
+    </label>
+    <button type="submit" class="search-submit"><i class="fa fa-search"></i><span class="screen-reader-text"></span></button>
+    <span class="close-search"><img src="http://restaurant.hostlibre.ml/wp-content/themes/yummy/assets/uploads/close-icon.png" alt="Close Search"></span>
+</form><!-- .search-form --></div></ul>		</nav><!-- #site-navigation -->
+				</div><!--.wrapper-->
+		</header><!-- #masthead -->
+				<div id="content" class="site-content">
+				<section id="banner-image" style="background-image:url( 'http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/tienda.jpg' );" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="0">
+        	<div class="black-overlay"></div>
+
+			       	<div class="wrapper">
+	  			<div class="page-title-wrapper">
+	    			<h2 class="page-title">
+	    				Tienda	    			</h2>
+	  			</div><!--.banner-title-->
+			</div><!-- .wrapper -->
+		<div class="container"><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://restaurant.hostlibre.ml" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">Productos</span><meta itemprop="position" content="2" /></li></ul></nav><div class="icon-scroll"></div>
+        </div><!--.container--> 			</section><!-- #banner-image -->
+	<section id="shop-products" class="page-section">
+        	<div class="wrapper">		<ul class="shop-tab clear">
+            <li class="active"><a href="http://restaurant.hostlibre.ml/tienda/">All</a></li>
+                        	<li class="" ><a href="http://restaurant.hostlibre.ml/categoria-producto/bebidas/">Bebidas</a></li>
+                        	<li class="" ><a href="http://restaurant.hostlibre.ml/categoria-producto/entrada/">Entrada</a></li>
+                        	<li class="" ><a href="http://restaurant.hostlibre.ml/categoria-producto/platos/">Platos</a></li>
+                        	<li class="" ><a href="http://restaurant.hostlibre.ml/categoria-producto/postres/">Postres</a></li>
+                  	</ul><!-- .nav-tabs -->
+<ul id="main" class="products gallery-popup col-3">
+				
+				
+					
+					<li class="post-275 product type-product status-publish has-post-thumbnail product_cat-postres first instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/pastel-de-tres-leches/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="279" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/11/pastel-de-tres-leches-300x279.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=275" data-quantity="1" data-product_id="275" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/11/pastel-de-tres-leches.jpg" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/pastel-de-tres-leches/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/pastel-de-tres-leches/" class="woocommerce-LoopProduct-link">Pastel de Tres Leches</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>4.50</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+					
+					<li class="post-273 product type-product status-publish has-post-thumbnail product_cat-postres  instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/gelatina/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/11/Gelatina-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//restaurant.hostlibre.ml/wp-content/uploads/2017/11/Gelatina-300x300.jpg 300w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/Gelatina-150x150.jpg 150w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/Gelatina-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=273" data-quantity="1" data-product_id="273" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/11/Gelatina-600x450.jpg" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/gelatina/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/gelatina/" class="woocommerce-LoopProduct-link">Gelatina</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>3.50</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+					
+					<li class="post-271 product type-product status-publish has-post-thumbnail product_cat-postres last instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/pay-de-limon/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/11/pay-de-limon-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//restaurant.hostlibre.ml/wp-content/uploads/2017/11/pay-de-limon-300x300.jpg 300w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/pay-de-limon-150x150.jpg 150w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/pay-de-limon-180x180.jpg 180w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/pay-de-limon-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=271" data-quantity="1" data-product_id="271" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/11/pay-de-limon-600x600.jpg" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/pay-de-limon/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/pay-de-limon/" class="woocommerce-LoopProduct-link">Pay de Limón</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>4.50</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+					
+					<li class="post-269 product type-product status-publish has-post-thumbnail product_cat-entrada first instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/caldo-de-gallina/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/11/caldo-de-gallina-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//restaurant.hostlibre.ml/wp-content/uploads/2017/11/caldo-de-gallina-300x300.jpg 300w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/caldo-de-gallina-150x150.jpg 150w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/caldo-de-gallina-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=269" data-quantity="1" data-product_id="269" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/11/caldo-de-gallina-600x458.jpg" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/caldo-de-gallina/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/caldo-de-gallina/" class="woocommerce-LoopProduct-link">Caldo de Gallina</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>4.00</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+					
+					<li class="post-267 product type-product status-publish has-post-thumbnail product_cat-postres  instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/pastel-de-chocolate/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/11/pastel-de-chocolate-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//restaurant.hostlibre.ml/wp-content/uploads/2017/11/pastel-de-chocolate-300x300.jpg 300w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/pastel-de-chocolate-150x150.jpg 150w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/pastel-de-chocolate-180x180.jpg 180w, //restaurant.hostlibre.ml/wp-content/uploads/2017/11/pastel-de-chocolate-600x597.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=267" data-quantity="1" data-product_id="267" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/11/pastel-de-chocolate-600x597.jpg" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/pastel-de-chocolate/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/pastel-de-chocolate/" class="woocommerce-LoopProduct-link">Pastel de Chocolate</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>4.50</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+					
+					<li class="post-223 product type-product status-publish has-post-thumbnail product_cat-bebidas last instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/jarra-de-maracuya/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/maracuya-300x300.png" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/maracuya-300x300.png 300w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/maracuya-150x150.png 150w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/maracuya-180x180.png 180w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=223" data-quantity="1" data-product_id="223" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/maracuya-600x400.png" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/jarra-de-maracuya/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/jarra-de-maracuya/" class="woocommerce-LoopProduct-link">Jarra de Maracuya</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>5.00</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+					
+					<li class="post-221 product type-product status-publish has-post-thumbnail product_cat-bebidas first instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/jarra-de-chicha-morada/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/chicha-morada-300x300.png" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/chicha-morada-300x300.png 300w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/chicha-morada-150x150.png 150w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/chicha-morada-180x180.png 180w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=221" data-quantity="1" data-product_id="221" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/chicha-morada-600x400.png" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/jarra-de-chicha-morada/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/jarra-de-chicha-morada/" class="woocommerce-LoopProduct-link">Jarra de Chicha Morada</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>5.00</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+					
+					<li class="post-219 product type-product status-publish has-post-thumbnail product_cat-bebidas  instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/coca-cola/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/coca-cola-300x300.png" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/coca-cola-300x300.png 300w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/coca-cola-150x150.png 150w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/coca-cola-180x180.png 180w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=219" data-quantity="1" data-product_id="219" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/coca-cola-600x400.png" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/coca-cola/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/coca-cola/" class="woocommerce-LoopProduct-link">Coca Cola</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>5.00</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+					
+					<li class="post-216 product type-product status-publish has-post-thumbnail product_cat-bebidas last instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/inca-kola-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/inca-kola-300x300.png" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/inca-kola-300x300.png 300w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/inca-kola-150x150.png 150w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/inca-kola-180x180.png 180w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=216" data-quantity="1" data-product_id="216" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/inca-kola-600x400.png" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/inca-kola-2/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/inca-kola-2/" class="woocommerce-LoopProduct-link">Inca Kola</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>5.00</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+					
+					<li class="post-197 product type-product status-publish has-post-thumbnail product_cat-entrada first instock shipping-taxable purchasable product-type-simple">
+	<div class="featured-product">
+		<a href="http://restaurant.hostlibre.ml/producto/ensalada/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/Ensalada-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//restaurant.hostlibre.ml/wp-content/uploads/2017/10/Ensalada-300x300.jpg 300w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/Ensalada-150x150.jpg 150w, //restaurant.hostlibre.ml/wp-content/uploads/2017/10/Ensalada-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<div class="black-overlay"></div>
+		<div class="hover-icons">
+			<a rel="nofollow" href="/tienda/?add-to-cart=197" data-quantity="1" data-product_id="197" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart"></a>			<a href="http://restaurant.hostlibre.ml/wp-content/uploads/2017/10/Ensalada-600x400.jpg" class="popup"><i class="fa fa-eye"></i></a>
+			<a href="http://restaurant.hostlibre.ml/producto/ensalada/" class="link"><i class="fa fa-link"></i></a>
+		</div><!-- .hover-icons -->
+	</div><!-- .featured-product -->
+
+	<div class="product-content">
+				<h3><a href="http://restaurant.hostlibre.ml/producto/ensalada/" class="woocommerce-LoopProduct-link">Ensalada</a></h3>
+				
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">S/.</span>3.00</span></span>
+	</div><!-- .product-content -->
+</li><!-- .product -->
+				
+			</ul>
+
+			<nav class="woocommerce-pagination">
+	<ul class='page-numbers'>
+	<li><span class='page-numbers current'>1</span></li>
+	<li><a class='page-numbers' href='http://restaurant.hostlibre.ml/tienda/page/2/'>2</a></li>
+	<li><a class="next page-numbers" href="http://restaurant.hostlibre.ml/tienda/page/2/">&rarr;</a></li>
+</ul>
+</nav>
+
+		
+	</div><!-- end .wrapper -->
+        	</section><!-- end #shop-product -->
+	
+		</div><!-- #content -->
+				<footer id="colophon" class="site-footer col-1" role="contentinfo">
+				<div class="bottom-footer page-section" style="background-image: url('http://restaurant.hostlibre.ml/wp-content/themes/yummy/assets/uploads/site-info.jpg');">
+        	<div class="wrapper">
+	 
+			<div class="social-link">
+	            <ul id="menu-menu-de-enlaces-sociales" class="social-icons"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://www.facebook.com">Facebook</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="https://twitter.com">Twitter</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a href="https://www.instagram.com">Instagram</a></li>
+</ul>	        </div><!--.social-link-->
+	<span class="copyright">Copyright &copy; 2017 <a href="http://restaurant.hostlibre.ml/">Restaurant</a>. All Rights Reserved</span>
+</body>
+</html>
